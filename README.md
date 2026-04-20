@@ -3,7 +3,8 @@
 This repository contains materials from an extracurricular semester project at the University of Texas at Austin in 2026 exploring how quantum algorithms and Bayesian methods can serve one another. The project included weekly discussion sessions and hands-on exercises. 
 
 ## Participants
-18 undergraduates and 2 high school students took part in the project. Optional advanced assignments were also offered.
+18 undergraduates and 2 high school students took part in the project. 
+Optional advanced assignments were also offered.
 
 ## Student Contributions
 The following students independently contributed working solutions to the advanced assignments:
