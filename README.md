@@ -4,6 +4,7 @@ This repository contains materials from an extracurricular semester project at t
 
 ## Participants
 18 undergraduates and 2 high school students took part in the project. 
+
 Optional advanced assignments were also offered.
 
 ## Student Contributions
