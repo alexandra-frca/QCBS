@@ -11,7 +11,7 @@ The project explored quantum algorithms, Bayesian methods, and how they can serv
 The following students independently contributed solutions to the advanced assignments:
 
 - Arnav Jain
-- Cosmo Wu
+- [Cosmo Wu](https://www.linkedin.com/in/cosmo-wu1154/) ([email](mailto:cosmoyangwu@gmail.com))
 
 ## Content
 The `datasets/` folder contains data from a Ramsey experiment on a superconducting device (used in tutorial #2 and assignment #1).
