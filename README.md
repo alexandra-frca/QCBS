@@ -21,4 +21,4 @@ The `tutorial/` folder contains the tutorials that guided the sessions.
 The `reports/` folder contains project reports for the advanced assignments.
 
 ## Project Organization
-Alexandra Ramôa developed the curriculum and tutorials, conducted the experiments, and served as mentor for the project.
+[Alexandra Ramôa](https://sites.google.com/view/alexandraramoa) developed the curriculum and tutorials, conducted the experiments, and served as mentor for the project.
