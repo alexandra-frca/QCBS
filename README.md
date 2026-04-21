@@ -15,7 +15,9 @@ The following students independently contributed working solutions to the advanc
 
 ## Content
 The `datasets/` folder contains data from a Ramsey experiment on a superconducting device (used in tutorial #2 and assignment #1).
+
 The `tutorial/` folder contains the tutorials that guided the sessions.
+
 The `reports/` folder contains project reports for the advanced assignments.
 
 ## Project Organization
