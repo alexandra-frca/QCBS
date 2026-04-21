@@ -8,7 +8,7 @@ The project explored quantum algorithms, Bayesian methods, and how they can serv
 18 undergraduates and 2 high school students took part in the project. 
 
 ## Student Contributions
-The following students independently contributed working solutions to the advanced assignments:
+The following students independently contributed solutions to the advanced assignments:
 
 - Arnav Jain
 - Cosmo Wu
