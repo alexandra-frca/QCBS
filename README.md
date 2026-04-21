@@ -1,11 +1,11 @@
 # Quantum Computing & Bayesian Statistics
 
-This repository contains materials from an extracurricular semester project at the University of Texas at Austin in 2026 exploring how quantum algorithms and Bayesian methods can serve one another. The project included weekly discussion sessions and hands-on exercises. 
+This repository contains materials from an extracurricular semester project at the University of Texas at Austin in 2026. It was organized in the scope of the [DiRP](https://stat.utexas.edu/academics/directed-reading-program) initiative, with the goal of introducing students to research.
+
+The project explored quantum algorithms, Bayesian methods, and how they can serve one another. It involved weekly meetings with a focus on hands-on exercises, discussion, and analysis of scientific papers. Optional advanced assignments were offered for those interested in exploring the topics beyond the core sessions.
 
 ## Participants
 18 undergraduates and 2 high school students took part in the project. 
-
-Optional advanced assignments were also offered.
 
 ## Student Contributions
 The following students independently contributed working solutions to the advanced assignments:
